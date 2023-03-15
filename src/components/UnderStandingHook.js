@@ -2,7 +2,7 @@ import React, {useState} from "react";
 
 
 
-function UnderStandingHood() {
+function UnderStandingHook() {
 
     //let val = 10;
 
@@ -33,4 +33,4 @@ function UnderStandingHood() {
 
 
 }
-export default UnderStandingHood;
+export default UnderStandingHook;
